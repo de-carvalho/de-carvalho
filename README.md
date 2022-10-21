@@ -2,7 +2,7 @@
 
 ### Hello everyone!
 
-My name is Ana and I've been working as a QA since 2020.
+My name is Ana and I'm a software engineer in test.
 
 <div>
   <a href="https://github.com/de-carvalho">
