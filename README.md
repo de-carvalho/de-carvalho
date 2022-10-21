@@ -4,8 +4,8 @@ My name is Ana and I've been working as a QA since 2020.
 
 <div>
   <a href="https://github.com/de-carvalho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=de-carvalho&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=de-carvalho&theme=radical&show_icons=true&count_private=true&langs_count=10&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=de-carvalho&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=de-carvalho&theme=merko&show_icons=true&count_private=true&langs_count=10&layout=compact"/>
 </div>
   
   ##
