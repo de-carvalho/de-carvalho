@@ -3,7 +3,7 @@
 My name is Ana and I've been working as a QA since 2020.
 
 <div>
-  <a href="https://github.com/gmorae">
+  <a href="https://github.com/de-carvalho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gmorae&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmorae&theme=omni&show_icons=true&count_private=true&langs_count=10&layout=compact"/>
 </div>
