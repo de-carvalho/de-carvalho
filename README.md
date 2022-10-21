@@ -10,6 +10,6 @@ My name is Ana and I've been working as a QA since 2020.
   
   ##
   
-[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/diego-schell-fernandes/) 
-[![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:diego.schell.f@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-Ana%20De%20Carvalho-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ana-carolina-c-16934a187/)](https://www.linkedin.com/in/ana-carolina-c-16934a187/) 
+[![Gmail Badge](https://img.shields.io/badge/-anamrnd21@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anamrnd21@gmail.com)](mailto:anamrnd21@gmail.com) 
   
