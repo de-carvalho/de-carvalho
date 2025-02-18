@@ -2,7 +2,7 @@
 
 ### Hello everyone!
 
-My name is Ana and I'm a software engineer in test.
+My name is Ana and I'm a software engineer.
 
 <div>
   <a href="https://github.com/de-carvalho">
