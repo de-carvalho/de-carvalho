@@ -1,6 +1,3 @@
-<!-- Banner personalizado -->
-<img src="https://raw.githubusercontent.com/de-carvalho/de-carvalho/main/banner-soad-rock.png" alt="Ana De Carvalho Banner" style="width:100%; border-radius: 10px;" />
-
 # 👩‍💻 Ana De Carvalho
 
 > *"Life is a waterfall, we're one in the river and one again after the fall."*  
