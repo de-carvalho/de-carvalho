@@ -7,21 +7,6 @@ Hi! I'm Ana — software engineer by day, music geek by soul.
 
 ---
 
-## 🎸 Vibe System of a Down
-
-> *“Why do they always send the poor?”*  
-> — BYOB, System of a Down
-
-<div align="center">
-
-### 😜 Um pouco de caos e loucura  
-<img src="https://media.tenor.com/yHqBzKhp4CgAAAAC/serj-tankian.gif" width="300" />
-
-</div>
-
-
----
-
 ### ⚙️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
