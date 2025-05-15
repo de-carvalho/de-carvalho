@@ -14,12 +14,6 @@ Hi! I'm Ana — software engineer by day, music geek by soul.
 
 <div align="center">
 
-### 🔥 Energia no palco
-<img src="https://media.giphy.com/media/9mRTODnRYizgHt6dVZ/giphy.gif" width="400" />
-
-### 🎤 “WAKE UP!”  
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="350" />
-
 ### 😜 Um pouco de caos e loucura  
 <img src="https://media.tenor.com/yHqBzKhp4CgAAAAC/serj-tankian.gif" width="300" />
 
