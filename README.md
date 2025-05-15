@@ -1,17 +1,51 @@
-# Ana De Carvalho 👩🏻‍💻
+<!-- Banner personalizado -->
+<img src="https://raw.githubusercontent.com/de-carvalho/de-carvalho/main/banner-soad-rock.png" alt="Ana De Carvalho Banner" style="width:100%; border-radius: 10px;" />
 
-### Hello everyone!
+# 👩‍💻 Ana De Carvalho
 
-My name is Ana and I'm a software engineer.
+> *"Life is a waterfall, we're one in the river and one again after the fall."*  
+> — System of a Down
 
-<div>
-  <a href="https://github.com/de-carvalho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=de-carvalho&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=de-carvalho&theme=merko&show_icons=true&count_private=true&langs_count=10&layout=compact"/>
-</div>
- 
-  ##
-  
-[![Linkedin Badge](https://img.shields.io/badge/-Ana%20De%20Carvalho-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ana-carolina-c-16934a187/)](https://www.linkedin.com/in/ana-carolina-c-16934a187/) 
-[![Gmail Badge](https://img.shields.io/badge/-anamrnd21@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anamrnd21@gmail.com)](mailto:anamrnd21@gmail.com) 
-  
+Hi! I'm Ana — software engineer by day, music geek by soul.  
+Front-end dev com amor por TypeScript, testes automatizados e aquele café frio esquecido na mesa.  
+Ah, e sim: conheci **John Dolmayan** pessoalmente. 🤘
+
+---
+
+### ⚙️ Tech Stack
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
+
+---
+
+### 🎵 Now Playing on Spotify
+[![Spotify](https://novatorem-olive.vercel.app/api/spotify)](https://open.spotify.com/user/)  
+<!-- Obs: para isso funcionar, você precisa configurar o GitHub com um projeto chamado novatorem, se quiser eu te explico depois -->
+
+---
+
+### 📂 Destaques do meu GitHub
+| Projeto | Descrição | Tecnologias |
+|--------|------------|-------------|
+| 🎮 [educa-game](https://github.com/de-carvalho/educa-game) | Protótipo de jogo educativo para TCC | ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godot-engine&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| 📊 [dash-insights](https://github.com/de-carvalho/dash-insights) | Painel BI com análise de dados de uso | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white) |
+| 🧪 [auto-tests-py](https://github.com/de-carvalho/auto-tests-py) | Testes automatizados com foco em mobile | ![Appium](https://img.shields.io/badge/Appium-47226C?style=flat&logo=appium&logoColor=white) ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat) |
+
+---
+
+### 📊 GitHub Stats
+![Ana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=de-carvalho&show_icons=true&theme=radical&icon_color=ff0000&title_color=ff0000&text_color=ffffff&bg_color=0d1117)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=de-carvalho&layout=compact&theme=radical&title_color=ff0000&text_color=ffffff&bg_color=0d1117)
+
+---
+
+### 📫 Contact
+[![Gmail Badge](https://img.shields.io/badge/-anamrnd21@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:anamrnd21@gmail.com)
+
+---
+
+> _Coding with chaos. Testing with structure._  
+> _Loud music and quiet commits._
