@@ -4,8 +4,6 @@
 > — System of a Down
 
 Hi! I'm Ana — software engineer by day, music geek by soul.  
-Front-end dev com amor por TypeScript, testes automatizados e aquele café frio esquecido na mesa.  
-Ah, e sim: conheci **John Dolmayan** pessoalmente. 🤘
 
 ---
 
