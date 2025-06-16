@@ -1,8 +1,5 @@
 # 👩‍💻 Ana De Carvalho
 
-> *"Life is a waterfall, we're one in the river and one again after the fall."*  
-> — System of a Down
-
 Hi! I'm Ana — software engineer by day, music geek by soul.  
 
 ---
