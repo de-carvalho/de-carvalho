@@ -1,7 +1,5 @@
 # 👩‍💻 Ana De Carvalho
 
-Hi! I'm Ana — software engineer by day, music geek by soul.  
-
 ---
 
 ### ⚙️ Tech Stack
@@ -22,6 +20,3 @@ Hi! I'm Ana — software engineer by day, music geek by soul.
 [![Gmail Badge](https://img.shields.io/badge/-anamrnd21@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:anamrnd21@gmail.com)
 
 ---
-
-> _Coding with chaos. Testing with structure._  
-> _Loud music and quiet commits._
