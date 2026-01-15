@@ -10,8 +10,6 @@
 
 ---
 
----
-
 ### 📫 Contact
 [![Gmail Badge](https://img.shields.io/badge/-anamrnd21@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:anamrnd21@gmail.com)
 
