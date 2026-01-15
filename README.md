@@ -10,10 +10,6 @@
 
 ---
 
-### 📊 GitHub Stats
-![Ana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=de-carvalho&show_icons=true&theme=radical&icon_color=ff0000&title_color=ff0000&text_color=ffffff&bg_color=0d1117)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=de-carvalho&layout=compact&theme=radical&title_color=ff0000&text_color=ffffff&bg_color=0d1117)
-
 ---
 
 ### 📫 Contact
